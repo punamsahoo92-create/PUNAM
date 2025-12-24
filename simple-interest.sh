@@ -1,6 +1,13 @@
-Text
-Updating 3c2a1f4..7b91e2a
-Fast-forward
- README.md | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+curl https://api.github.com/PUNAM/punamsahoo92-create/mcino-introduction-to-git-and-github/pulls
+
+"state": "open",
+"head": {
+  "ref": "bug-fix-revert",
+  "repo": {
+    "full_name": "your-username/mcino-introduction-to-git-and-github"
+  }
+},
+"base": {
+  "ref": "main"
+}
 
