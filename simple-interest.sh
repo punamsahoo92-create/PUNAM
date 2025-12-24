@@ -1,7 +1,6 @@
 Text
-curl https://api.github.com/PUNAM/punamsahoo92-create/mcino-introduction-to-git-and-github
+Updating 3c2a1f4..7b91e2a
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 
-"fork": true,
-"parent": {
-  "full_name": "ibm-developer-skills-network/mcino-introduction-to-git-and-github"
-}
