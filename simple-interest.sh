@@ -1,13 +1,8 @@
-curl https://api.github.com/PUNAM/punamsahoo92-create/mcino-introduction-to-git-and-github/pulls
-
-"state": "open",
-"head": {
-  "ref": "bug-fix-revert",
-  "repo": {
-    "full_name": "your-username/mcino-introduction-to-git-and-github"
-  }
-},
-"base": {
-  "ref": "main"
-}
+main
+  bug-fix-revert
+  bug-fix-typo
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+  remotes/origin/bug-fix-revert
+  remotes/origin/bug-fix-typo
 
