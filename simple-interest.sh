@@ -1,1 +1,7 @@
-https://github.com/punamsahoo92-create/simple-interest-calculator/blob/main/README.md
+Text
+curl https://api.github.com/PUNAM/punamsahoo92-create/mcino-introduction-to-git-and-github
+
+"fork": true,
+"parent": {
+  "full_name": "ibm-developer-skills-network/mcino-introduction-to-git-and-github"
+}
