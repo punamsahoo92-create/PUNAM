@@ -1,2 +1,1 @@
-https://github.com/punamsahoo92-create/simple-interest-calculator/blob/main/README.md
-https://github.com/punamsahoo92-create/apache-license-task/blob/main/LICENSE
+https://github.com/punamsahoo92-create/your-repo-name/blob/main/CODE_OF_CONDUCT.md
